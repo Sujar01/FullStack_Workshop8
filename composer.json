@@ -1,0 +1,17 @@
+{
+    "name": "seika/week8workshop",
+    "autoload": {
+        "psr-4": {
+            "Seika\\Week8workshop\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rabin Khadka",
+            "email": "123456789+odin@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "jenssegers/blade": "1.4"
+    }
+}
